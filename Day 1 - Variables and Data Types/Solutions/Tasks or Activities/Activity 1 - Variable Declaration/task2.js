@@ -1,4 +1,6 @@
 /**
+ * Day 1 - Variables and Data Types
+ * 
  * Activity 1: Variable Declaration
  *  - Task 2: Declare a variable using let, assign it a string, and log the value to the console.
 */
