@@ -23,9 +23,24 @@ node fileName.js
 
 <br/>
 
-## 🔗 **Assignment Question with Solutions**
-### [Day 1 - Variables and Data Types](./Day%201%20-%20Variables%20and%20Data%20Types/)
-### [Day 2 - Operators](./Day%202%20-%20Operators/)
+## 👨‍💻 **Assignment Question with Solutions** 👀
+
+## [_📚 Day 1 - Variables and Data Types_](./Day%201%20-%20Variables%20and%20Data%20Types/)
+- 📒 **Assignment**
+    - 📝 [_Readme File_](./Day%201%20-%20Variables%20and%20Data%20Types/Assignment/Day%201%20-%20Variables%20and%20Data%20Types%20Assignment.md)
+    - 📝 [_PDF File_](./Day%201%20-%20Variables%20and%20Data%20Types/Assignment/Day%201%20-%20Variables%20and%20Data%20Types%20Assignment.png)
+- 🖥️ **Assignment Solutions**
+    - 💻 [**Tasks / Activities**](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Tasks%20or%20Activities/)
+        - [Activity 1 - Variable Declaration](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Variable%20Declaration/)
+        - [Activity 2 - Constant Declaration](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Constant%20Declaration/)
+        - [Activity 3 - Data Types](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Data%20Types/)
+        - [Activity 4 - Reassigning Variables](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Reassigning%20Variables/)
+        - [Activity 5 - Understanding Const](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Understanding%20Const/)
+    - 💻 [**Feature Request**](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Feature%20Request/)
+        - [1. Variable Types Console Log](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Feature%20Request/1.%20Variable%20Types%20Console%20Log/)
+        - [2. Reassignment Demo](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Feature%20Request/2.%20Reassignment%20Demo/)
+
+## [_📚 Day 2 - Operators_](./Day%202%20-%20Operators/)
 
 
 <br />
