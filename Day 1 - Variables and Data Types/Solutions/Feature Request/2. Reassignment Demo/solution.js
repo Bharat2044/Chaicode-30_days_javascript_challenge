@@ -1,5 +1,7 @@
 /**
- * Reassignment Demo:
+ * Day 1 - Variables and Data Types
+ * 
+ * Feature Request: Reassignment Demo
  *  - Create a script that demonstrates the difference in behavior between `let` and `const` when it comes to reassignment.
  */
 
