@@ -1,5 +1,7 @@
 /**
- * Variable Types Console Log
+ * Day 1 - Variables and Data Types
+ * 
+ * Feature Request: Variable Types Console Log
  *  - Write a script that declares variables of different data types and logs both the value and type of each variable to the console.
  */
 
