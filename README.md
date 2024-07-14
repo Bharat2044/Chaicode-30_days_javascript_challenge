@@ -25,11 +25,11 @@ node fileName.js
 
 ## 👨‍💻 **Assignment Question with Solutions** 👀
 
-## [_📚 Day 1 - Variables and Data Types_](./Day%201%20-%20Variables%20and%20Data%20Types/)
-- 📒 **Assignment**
+## 📚 [_Day 1 - Variables and Data Types_](./Day%201%20-%20Variables%20and%20Data%20Types/)
+- 📒 [**Assignment**](./Day%201%20-%20Variables%20and%20Data%20Types/Assignment/)
     - 📝 [_Readme File_](./Day%201%20-%20Variables%20and%20Data%20Types/Assignment/Day%201%20-%20Variables%20and%20Data%20Types%20Assignment.md)
     - 📝 [_PDF File_](./Day%201%20-%20Variables%20and%20Data%20Types/Assignment/Day%201%20-%20Variables%20and%20Data%20Types%20Assignment.png)
-- 🖥️ **Assignment Solutions**
+- 🖥️ [**Assignment Solutions**](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/)
     - 💻 [**Tasks / Activities**](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Tasks%20or%20Activities/)
         - [Activity 1 - Variable Declaration](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Variable%20Declaration/)
         - [Activity 2 - Constant Declaration](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Constant%20Declaration/)
@@ -40,7 +40,21 @@ node fileName.js
         - [1. Variable Types Console Log](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Feature%20Request/1.%20Variable%20Types%20Console%20Log/)
         - [2. Reassignment Demo](./Day%201%20-%20Variables%20and%20Data%20Types/Solutions/Feature%20Request/2.%20Reassignment%20Demo/)
 
-## [_📚 Day 2 - Operators_](./Day%202%20-%20Operators/)
+## 📚 [_Day 2 - Operators_](./Day%202%20-%20Operators/)
+- 📒 [**Assignment**](./Day%202%20-%20Operators/Assignment/)
+    - 📝 [_Readme File_](./Day%202%20-%20Operators/Assignment/Day%202%20-%20Operators%20Assignment.md)
+    - 📝 [_PDF File_](/Day%202%20-%20Operators/Assignment/Day%202-%20Operators%20Assignmet.jpg)
+- 🖥️ [**Assignment Solutions**](./Day%202%20-%20Operators/Solutions/)
+    - 💻 [**Tasks / Activities**](./Day%202%20-%20Operators/Solutions/Tasks%20or%20Activities/)
+        - [Activity 1 - Arithmetic Operations](./Day%202%20-%20Operators/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Arithmetic%20Operations/)
+        - [Activity 2 - Assignment Operators](./Day%202%20-%20Operators/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Assignment%20Operators/)
+        - [Activity 3 - Comparison Operators](./Day%202%20-%20Operators/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Comparison%20Operators/)
+        - [Activity 4 - Logical Operators](./Day%202%20-%20Operators/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Logical%20Operators/)
+        - [Activity 5 - Ternary Operator](./Day%202%20-%20Operators/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Ternary%20Operator/)
+    - 💻 [**Feature Request**](./Day%202%20-%20Operators/Solutions/Feature%20Request/)
+        - [1. Arithmetic Operations Script](./Day%202%20-%20Operators/Solutions/Feature%20Request/1.%20Arithmetic%20Operations%20Script/)
+        - [2. Comparison and Logical Operators Script](./Day%202%20-%20Operators/Solutions/Feature%20Request/2.%20Comparison%20and%20Logical%20Operators%20Script/)
+        - [3. Ternary Operator Script](./Day%202%20-%20Operators/Solutions/Feature%20Request/3.%20Ternary%20Operator%20Script/)
 
 
 <br />
