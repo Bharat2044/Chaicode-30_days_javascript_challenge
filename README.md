@@ -43,7 +43,7 @@ node fileName.js
 ## 📚 [_Day 2 - Operators_](./Day%202%20-%20Operators/)
 - 📒 [**Assignment**](./Day%202%20-%20Operators/Assignment/)
     - 📝 [_Readme File_](./Day%202%20-%20Operators/Assignment/Day%202%20-%20Operators%20Assignment.md)
-    - 📝 [_PDF File_](/Day%202%20-%20Operators/Assignment/Day%202-%20Operators%20Assignmet.jpg)
+    - 📝 [_PDF File_](./Day%202%20-%20Operators/Assignment/Day%202-%20Operators%20Assignmet.jpg)
 - 🖥️ [**Assignment Solutions**](./Day%202%20-%20Operators/Solutions/)
     - 💻 [**Tasks / Activities**](./Day%202%20-%20Operators/Solutions/Tasks%20or%20Activities/)
         - [Activity 1 - Arithmetic Operations](./Day%202%20-%20Operators/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Arithmetic%20Operations/)
@@ -55,6 +55,26 @@ node fileName.js
         - [1. Arithmetic Operations Script](./Day%202%20-%20Operators/Solutions/Feature%20Request/1.%20Arithmetic%20Operations%20Script/)
         - [2. Comparison and Logical Operators Script](./Day%202%20-%20Operators/Solutions/Feature%20Request/2.%20Comparison%20and%20Logical%20Operators%20Script/)
         - [3. Ternary Operator Script](./Day%202%20-%20Operators/Solutions/Feature%20Request/3.%20Ternary%20Operator%20Script/)
+
+## 📚 [_Day 3 - Control Structures_](./Day%203%20-%20Control%20Structures/)
+- 📒 [**Assignment**](./Day%203%20-%20Control%20Structures/Assignment/)
+    - 📝 [_Readme File_](./Day%203%20-%20Control%20Structures/Assignment/Day%203%20-%20Control%20Structures%20Assignment.md)
+    - 📝 [_PDF File_](./Day%203%20-%20Control%20Structures/Assignment/Day%203%20-%20Control%20Structures%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%203%20-%20Control%20Structures/Solutions/)
+    - 💻 [**Tasks / Activities**](./Day%203%20-%20Control%20Structures/Solutions/Tasks%20or%20Activities/)
+        - [Activity 1 - If-Else Statements](./Day%203%20-%20Control%20Structures/Solutions/Tasks%20or%20Activities/Activity%201%20-%20If-Else%20Statements/)
+        - [Activity 2 - Nested If-Else Statements](./Day%203%20-%20Control%20Structures/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Nested%20If-Else%20Statements/)
+        - [Activity 3 - Switch Case](./Day%203%20-%20Control%20Structures/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Switch%20Case/)
+        - [Activity 4 - Conditional (Ternary) Operator](./Day%203%20-%20Control%20Structures/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Conditional%20(Ternary)%20Operator/)
+        - [Activity 5 - Combining Conditions](./Day%203%20-%20Control%20Structures/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Combining%20Conditions/)
+    - 💻 [**Feature Request**](./Day%202%20-%20Operators/Solutions/Feature%20Request/)
+        - [1. Number Check Script](./Day%203%20-%20Control%20Structures/Solutions/Feature%20Request/1.%20Number%20Check%20Script/)
+        - [2. Voting Eligibility Script](./Day%203%20-%20Control%20Structures/Solutions/Feature%20Request/2.%20Voting%20Eligibility%20Script/)
+        - [3. Day of the Week Script](./Day%203%20-%20Control%20Structures/Solutions/Feature%20Request/3.%20Day%20of%20the%20Week%20Script/)
+        - [4. Grade Assignment Script](./Day%203%20-%20Control%20Structures/Solutions/Feature%20Request/4.%20Grade%20Assignment%20Script/)
+        - [5. Leap Year Check Script](./Day%203%20-%20Control%20Structures/Solutions/Feature%20Request/5.%20Leap%20Year%20Check%20Script/)
+
+
 
 
 <br />
