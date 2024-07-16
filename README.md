@@ -67,12 +67,31 @@ node fileName.js
         - [Activity 3 - Switch Case](./Day%203%20-%20Control%20Structures/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Switch%20Case/)
         - [Activity 4 - Conditional (Ternary) Operator](./Day%203%20-%20Control%20Structures/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Conditional%20(Ternary)%20Operator/)
         - [Activity 5 - Combining Conditions](./Day%203%20-%20Control%20Structures/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Combining%20Conditions/)
-    - 💻 [**Feature Request**](./Day%202%20-%20Operators/Solutions/Feature%20Request/)
+    - 💻 [**Feature Request**](./Day%203%20-%20Control%20Structures/Solutions/Feature%20Request/)
         - [1. Number Check Script](./Day%203%20-%20Control%20Structures/Solutions/Feature%20Request/1.%20Number%20Check%20Script/)
         - [2. Voting Eligibility Script](./Day%203%20-%20Control%20Structures/Solutions/Feature%20Request/2.%20Voting%20Eligibility%20Script/)
         - [3. Day of the Week Script](./Day%203%20-%20Control%20Structures/Solutions/Feature%20Request/3.%20Day%20of%20the%20Week%20Script/)
         - [4. Grade Assignment Script](./Day%203%20-%20Control%20Structures/Solutions/Feature%20Request/4.%20Grade%20Assignment%20Script/)
         - [5. Leap Year Check Script](./Day%203%20-%20Control%20Structures/Solutions/Feature%20Request/5.%20Leap%20Year%20Check%20Script/)
+
+
+## 📚 [_Day 4 - Loops_](./Day%204%20-%20Loops/)
+- 📒 [**Assignment**](./Day%204%20-%20Loops/Assignment/)
+    - 📝 [_Readme File_](./Day%204%20-%20Loops/Assignment/Day%204%20-%20Loops%20Assignment.md)
+    - 📝 [_PDF File_](./Day%204%20-%20Loops/Assignment/Day%204%20-%20Loops%20Assignment.jpg)
+- 🖥️ [**Assignment Solutions**](./Day%204%20-%20Loops/Solutions/)
+    - 💻 [**Tasks / Activities**](./Day%204%20-%20Loops/Solutions/Tasks%20or%20Activities/)
+        - [Activity 1 - For Loop](./Day%204%20-%20Loops/Solutions/Tasks%20or%20Activities/Activity%201%20-%20For%20Loop/)
+        - [Activity 2 - While Loop](./Day%204%20-%20Loops/Solutions/Tasks%20or%20Activities/Activity%202%20-%20While%20Loop/)
+        - [Activity 3 - Do...While Loop](./Day%204%20-%20Loops/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Do...While%20Loop/)
+        - [Activity 4 - Nested Loops](./Day%204%20-%20Loops/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Nested%20Loop/)
+        - [Activity 5 - Loop Control Statements](./Day%204%20-%20Loops/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Loop%20Control%20Statements/)
+    - 💻 [**Feature Request**](./Day%204%20-%20Loops/Solutions/Feature%20Request/)
+        - [1. Number Printing Script](./Day%204%20-%20Loops/Solutions/Feature%20Request/1.%20Number%20Printing%20Script/)
+        - [2. Multiplication Table Script](./Day%204%20-%20Loops/Solutions/Feature%20Request/2.%20Multiplication%20Table%20Script/)
+        - [3. Pattern Printing Script](./Day%204%20-%20Loops/Solutions/Feature%20Request/3.%20Pattern%20Printing%20Script/)
+        - [4. Sum Calculation Script](./Day%204%20-%20Loops/Solutions/Feature%20Request/4.%20Sum%20Calculation%20Script/)
+        - [5. Factorial Calculation Script](./Day%204%20-%20Loops/Solutions/Feature%20Request/5.%20Factorial%20Calculation%20Script/)
 
 
 
