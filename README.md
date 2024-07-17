@@ -94,6 +94,25 @@ node fileName.js
         - [5. Factorial Calculation Script](./Day%204%20-%20Loops/Solutions/Feature%20Request/5.%20Factorial%20Calculation%20Script/)
 
 
+## 📚 [_Day 5 - Functions_](./Day%205%20-%20Functions/)
+- 📒 [**Assignment**](./Day%205%20-%20Functions/Assignment/)
+    - 📝 [_Readme File_](./Day%205%20-%20Functions/Assignment/Day%205%20-%20Functions%20Assignment.md)
+    - 📝 [_PDF File_](./Day%205%20-%20Functions/Assignment/Day%20-%205%20Functions%20Assignment.jpg)
+- 🖥️ [**Assignment Solutions**](./Day%205%20-%20Functions/Solutions/)
+    - 💻 [**Tasks / Activities**](./Day%205%20-%20Functions/Solutions/Tasks%20or%20Activities/)
+        - [Activity 1 - Function Declaration](./Day%205%20-%20Functions/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Function%20Declaration/)
+        - [Activity 2 - Function Expression](./Day%205%20-%20Functions/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Function%20Expression/)
+        - [Activity 3 - Arrow Functions](./Day%205%20-%20Functions/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Arrow%20Functions/)
+        - [Activity 4 - Function Parameters and Default Values](./Day%205%20-%20Functions/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Function%20Parameters%20and%20Default%20Values/)
+        - [Activity 5 - Higher-Order Functions](./Day%205%20-%20Functions/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Higher-Order%20Functions/)
+    - 💻 [**Feature Request**](./Day%205%20-%20Functions/Solutions/Feature%20Request/)
+        - [1. Even or Odd Function Script](./Day%205%20-%20Functions/Solutions/Feature%20Request/1.%20Even%20or%20Odd%20Function%20Script/)
+        - [2. Square Calculation Function Script](./Day%205%20-%20Functions/Solutions/Feature%20Request/2.%20Square%20Calculation%20Function%20Script/)
+        - [3. Concatenation Function Script](./Day%205%20-%20Functions/Solutions/Feature%20Request/3.%20Concatenation%20Function%20Script/)
+        - [4. Sum Calculation Arrow Function Script](./Day%205%20-%20Functions/Solutions/Feature%20Request/4.%20Sum%20Calculation%20Arrow%20Function%20Script/)
+        - [5. Higher-Order Function Script](./Day%205%20-%20Functions/Solutions/Feature%20Request/5.%20Higher-Order%20Function%20Script/)
+
+
 
 
 <br />
