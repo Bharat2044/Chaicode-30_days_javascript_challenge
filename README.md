@@ -152,6 +152,26 @@ node fileName.js
     - [1. Book Object Script](./Day%2007%20-%20Objects/Solutions/Feature%20Request/1.%20Book%20Object%20Script/)
     - [2. Library Object Script](./Day%2007%20-%20Objects/Solutions/Feature%20Request/2.%20Library%20Object%20Script/)
     - [3. Object Iteration Script](./Day%2007%20-%20Objects/Solutions/Feature%20Request/3.%20Object%20Iteration%20Script/)
+    - [4. Two-dimensional Array Script](./Day%2006%20-%20Arrays/Solutions/Feature%20Request/4.%20Two-dimensional%20Array%20Script/)
+
+## 📚 [_Day 08 - ES6+ Features_](./Day%2008%20-%20ES6+%20Features/)
+
+- 📒 [**Assignment**](./Day%2008%20-%20ES6+%20Features/Assignment/)
+  - 📝 [_Readme File_](./Day%2008%20-%20ES6+%20Features/Assignment/Day%208%20-%20ES6+%20Features%20Assignment.md/)
+  - 📝 [_PDF File_](./Day%2008%20-%20ES6+%20Features/Assignment/Day%208%20-%20ES6+%20Features%20Assignment.jpg)
+- 🖥️ [**Assignment Solutions**](./Day%2008%20-%20ES6+%20Features/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2008%20-%20ES6+%20Features/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Template Literals](./Day%2008%20-%20ES6+%20Features/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Template%20Literals/)
+    - [Activity 2 - Destructuring](./Day%2008%20-%20ES6+%20Features/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Destructuring/)
+    - [Activity 3 - Spread and Rest Operators](./Day%2008%20-%20ES6+%20Features/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Spread%20and%20Rest%20Operators/)
+    - [Activity 4 - Default Parameters](./Day%2008%20-%20ES6+%20Features/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Default%20Parameters/)
+    - [Activity 5 - Enhanced Object Literals](./Day%2008%20-%20ES6+%20Features/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Enhanced%20Object%20Literals/)
+  - 💻 [**Feature Request**](./Day%2008%20-%20ES6+%20Features/Solutions/Feature%20Request/)
+    - [1. Template Literals Script](./Day%2008%20-%20ES6+%20Features/Solutions/Feature%20Request/1.%20Template%20Literals%20Script/)
+    - [2. Destructuring Script](./Day%2008%20-%20ES6+%20Features/Solutions/Feature%20Request/2.%20Destructuring%20Script/)
+    - [3. Spread and Rest Operators Script](./Day%2008%20-%20ES6+%20Features/Solutions/Feature%20Request/3.%20Spread%20and%20Rest%20Operators%20Script/solution.js)
+    - [4. Default Parameters Script](./Day%2008%20-%20ES6+%20Features/Solutions/Feature%20Request/4.%20Default%20Parameters%20Script/)
+    - [5. Enhanced Object Literals Script](./Day%2008%20-%20ES6+%20Features/Solutions/Feature%20Request/5.%20Enhanced%20Object%20Literals%20Script/)
 
 
 <br />
