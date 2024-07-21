@@ -173,6 +173,25 @@ node fileName.js
     - [4. Default Parameters Script](./Day%2008%20-%20ES6+%20Features/Solutions/Feature%20Request/4.%20Default%20Parameters%20Script/)
     - [5. Enhanced Object Literals Script](./Day%2008%20-%20ES6+%20Features/Solutions/Feature%20Request/5.%20Enhanced%20Object%20Literals%20Script/)
 
+## 📚 [_Day 09 - DOM Manipulation_](./Day%2009%20-%20DOM%20Manipulation/)
+
+- 📒 [**Assignment**](./Day%2009%20-%20DOM%20Manipulation/Assignment/)
+  - 📝 [_Readme File_](./Day%2009%20-%20DOM%20Manipulation/Assignment/Day%209%20-%20DOM%20Manipulation%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2009%20-%20DOM%20Manipulation/Assignment/Day%209%20-%20DOM%20Manipulation%20Assignment.jpg)
+- 🖥️ [**Assignment Solutions**](./Day%2009%20-%20DOM%20Manipulation/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2009%20-%20DOM%20Manipulation/Solutions//Tasks%20or%20Activities/)
+    - [Activity 1 - Selecting and Manipulating Elements](./Day%2009%20-%20DOM%20Manipulation/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Selecting%20and%20Manipulating%20Elements/)
+    - [Activity 2 - Creating and Appending Elements](./Day%2009%20-%20DOM%20Manipulation/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Creating%20and%20Appending%20Elements/)
+    - [Activity 3 - Removing Elements](./Day%2009%20-%20DOM%20Manipulation/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Removing%20Elements/)
+    - [Activity 4 - Modifying Attributes and Classes](./Day%2009%20-%20DOM%20Manipulation/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Modifying%20Attributes%20and%20Classes/)
+    - [Activity 5 - Event Handling](./Day%2009%20-%20DOM%20Manipulation/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Event%20Handling/)
+  - 💻 [**Feature Request**](./Day%2009%20-%20DOM%20Manipulation/Solutions/Feature%20Request/)
+    - [1. Text Content Manipulation Script](./Day%2009%20-%20DOM%20Manipulation/Solutions/Feature%20Request/1.%20Text%20Content%20Manipulation%20Script/)
+    - [2. Element Creation Script](./Day%2009%20-%20DOM%20Manipulation/Solutions/Feature%20Request/2.%20Element%20Creation%20Script/)
+    - [3. Element Removal Script](./Day%2009%20-%20DOM%20Manipulation/Solutions/Feature%20Request/3.%20Element%20Removal%20Script/)
+    - [4. Attribute Modification Script](./Day%2009%20-%20DOM%20Manipulation/Solutions/Feature%20Request/4.%20Attribute%20Modification%20Script/)
+    - [5. Event Handling Script](./Day%2009%20-%20DOM%20Manipulation/Solutions/Feature%20Request/5.%20Event%20Handling%20Script/)
+
 
 <br />
 
