@@ -212,6 +212,25 @@ node fileName.js
     - [4. Form Events Script](./Day%2010%20-%20Event%20Handling/Solutions/Feature%20Request/4.%20Form%20Events%20Script/)
     - [5. Event Delegation Script](./Day%2010%20-%20Event%20Handling/Solutions/Feature%20Request/5.%20Event%20Delegation%20Script/)
 
+## 📚 [_Day 11 - Promises and Async/Await_](./Day%2011%20-%20Promises%20and%20Async-Await/)
+
+- 📒 [**Assignment**](./Day%2011%20-%20Promises%20and%20Async-Await/Assignment/)
+  - 📝 [_Readme File_](./Day%2011%20-%20Promises%20and%20Async-Await/Assignment/Day%2011%20-%20Promises%20and%20Async-Await%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2011%20-%20Promises%20and%20Async-Await/Assignment/Day%2011%20-%20Promises%20and%20Async-Await%20Assignment.jpg)
+- 🖥️ [**Assignment Solutions**](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Understanding Promises](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Understanding%20Promises/)
+    - [Activity 2 - Chaining Promises](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Chaining%20Promises/)
+    - [Activity 3 - Using Async/Await](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Using%20Async-Await/)
+    - [Activity 4 - Fetching Data from an API](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Fetching%20Data%20from%20an%20API/)
+    - [Activity 5 - Concurrent Promises](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Concurrent%20Promises/)
+  - 💻 [**Feature Request**](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Feature%20Request/)
+    - [1. Promise Creation Script](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Feature%20Request/1.%20Promise%20Creation%20Script/)
+    - [2. Promise Chaining Script](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Feature%20Request/2.%20Promise%20Chaining%20Script/)
+    - [3. Async/Await Script](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Feature%20Request/3.%20Async-Await%20Script/)
+    - [4. API Fetch Script](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Feature%20Request/4.%20API%20Fetch%20Script/)
+    - [5. Concurrent Promises Script](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Feature%20Request/5.%20Concurrent%20Promises%20Script/)
+
 
 <br />
 
