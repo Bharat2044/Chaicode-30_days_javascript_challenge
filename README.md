@@ -126,8 +126,8 @@ node fileName.js
 - 🖥️ [**Assignment Solutions**](./Day%2006%20-%20Arrays/Solutions/)
   - 💻 [**Tasks / Activities**](./Day%2006%20-%20Arrays/Solutions/Tasks%20or%20Activities/)
     - [Activity 1 - Array Creation and Access](./Day%2006%20-%20Arrays/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Array%20Creation%20and%20Access/)
-    - [Activity 2 - Array Methods (Basic)](./Day%2006%20-%20Arrays/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Array%20Methods%20(Basic)/)
-    - [Activity 3 - Array Methods (Intermediate)](./Day%2006%20-%20Arrays/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Array%20Methods%20(Intermediate)/)
+    - [Activity 2 - Array Methods (Basic)](<./Day%2006%20-%20Arrays/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Array%20Methods%20(Basic)/>)
+    - [Activity 3 - Array Methods (Intermediate)](<./Day%2006%20-%20Arrays/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Array%20Methods%20(Intermediate)/>)
     - [Activity 4 - Array Iteration](./Day%2006%20-%20Arrays/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Array%20Iteration/)
     - [Activity 5 - Multi-dimensional Arrays](./Day%2006%20-%20Arrays/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Multi-dimensional%20Arrays/)
   - 💻 [**Feature Request**](./Day%2006%20-%20Arrays/Solutions/Feature%20Request/)
@@ -192,7 +192,6 @@ node fileName.js
     - [4. Attribute Modification Script](./Day%2009%20-%20DOM%20Manipulation/Solutions/Feature%20Request/4.%20Attribute%20Modification%20Script/)
     - [5. Event Handling Script](./Day%2009%20-%20DOM%20Manipulation/Solutions/Feature%20Request/5.%20Event%20Handling%20Script/)
 
-
 ## 📚 [_Day 10 - Event Handling_](./Day%2010%20-%20Event%20Handling/)
 
 - 📒 [**Assignment**](./Day%2010%20-%20Event%20Handling/Assignment/)
@@ -231,6 +230,23 @@ node fileName.js
     - [4. API Fetch Script](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Feature%20Request/4.%20API%20Fetch%20Script/)
     - [5. Concurrent Promises Script](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Feature%20Request/5.%20Concurrent%20Promises%20Script/)
 
+## 📚 [\_Day 12 - Error Handling](./Day%2012%20-%20Error%20Handling/)
+
+- 📒 [**Assignment**](./Day%2012%20-%20Error%20Handling/Assignment/)
+  - 📝 [_Readme File_](./Day%2012%20-%20Error%20Handling/Assignment/Day%2012%20-%20Error%20Handling%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2012%20-%20Error%20Handling/Assignment/Day%2012%20-%20Error%20Handling%20Assignment.jpg)
+- 🖥️ [**Assignment Solutions**](./Day%2012%20-%20Error%20Handling/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2012%20-%20Error%20Handling/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Basic Error Handling with Try-Catch](./Day%2012%20-%20Error%20Handling/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Basic%20Error%20Handling%20with%20Try-Catch/)
+    - [Activity 2 - Finally Block](./Day%2012%20-%20Error%20Handling/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Finally%20Block/)
+    - [Activity 3 - Custom Error Objects](./Day%2012%20-%20Error%20Handling/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Custom%20Error%20Objects/)
+    - [Activity 4 - Error Handling in Promises](./Day%2012%20-%20Error%20Handling/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Error%20Handling%20in%20Promises/)
+    - [Activity 5 - Graceful Error Handling in Fetch](./Day%2012%20-%20Error%20Handling/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Graceful%20Error%20Handling%20in%20Fetch/)
+  - 💻 [**Feature Request**](./Day%2012%20-%20Error%20Handling/Solutions/Feature%20Request/)
+    - [1. Basic Error Handling Script](./Day%2012%20-%20Error%20Handling/Solutions/Feature%20Request/1.%20Basic%20Error%20Handling%20Script/)
+    - [2. Custom Error Script](./Day%2012%20-%20Error%20Handling/Solutions/Feature%20Request/2.%20Custom%20Error%20Script/)
+    - [3. Promise Error Handling Script](./Day%2012%20-%20Error%20Handling/Solutions/Feature%20Request/3.%20Promise%20Error%20Handling%20Script/)
+    - [4. Fetch Error Handling Script](./Day%2012%20-%20Error%20Handling/Solutions/Feature%20Request/4.%20Fetch%20Error%20Handling%20Script/)
 
 <br />
 
