@@ -230,11 +230,11 @@ node fileName.js
     - [4. API Fetch Script](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Feature%20Request/4.%20API%20Fetch%20Script/)
     - [5. Concurrent Promises Script](./Day%2011%20-%20Promises%20and%20Async-Await/Solutions/Feature%20Request/5.%20Concurrent%20Promises%20Script/)
 
-## 📚 [\_Day 12 - Error Handling](./Day%2012%20-%20Error%20Handling/)
+## 📚 [_Day 12 - Error Handling_](./Day%2012%20-%20Error%20Handling/)
 
 - 📒 [**Assignment**](./Day%2012%20-%20Error%20Handling/Assignment/)
   - 📝 [_Readme File_](./Day%2012%20-%20Error%20Handling/Assignment/Day%2012%20-%20Error%20Handling%20Assignment.md)
-  - 📝 [_PDF File_](./Day%2012%20-%20Error%20Handling/Assignment/Day%2012%20-%20Error%20Handling%20Assignment.jpg)
+  - 📝 [_PDF File_](./Day%2012%20-%20Error%20Handling/Assignment/Day%2012%20-%20Error%20Handling%20Assignment.png)
 - 🖥️ [**Assignment Solutions**](./Day%2012%20-%20Error%20Handling/Solutions/)
   - 💻 [**Tasks / Activities**](./Day%2012%20-%20Error%20Handling/Solutions/Tasks%20or%20Activities/)
     - [Activity 1 - Basic Error Handling with Try-Catch](./Day%2012%20-%20Error%20Handling/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Basic%20Error%20Handling%20with%20Try-Catch/)
@@ -247,6 +247,24 @@ node fileName.js
     - [2. Custom Error Script](./Day%2012%20-%20Error%20Handling/Solutions/Feature%20Request/2.%20Custom%20Error%20Script/)
     - [3. Promise Error Handling Script](./Day%2012%20-%20Error%20Handling/Solutions/Feature%20Request/3.%20Promise%20Error%20Handling%20Script/)
     - [4. Fetch Error Handling Script](./Day%2012%20-%20Error%20Handling/Solutions/Feature%20Request/4.%20Fetch%20Error%20Handling%20Script/)
+
+## 📚 [_Day 13 - Modules_](./Day%2013%20-%20Modules/)
+
+- 📒 [**Assignment**](./Day%2013%20-%20Modules/Assignment/)
+  - 📝 [_Readme File_](./Day%2013%20-%20Modules/Assignment/Day%2013%20-%20Modules%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2013%20-%20Modules/Assignment/Day%2013%20-%20Modules%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2013%20-%20Modules/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2013%20-%20Modules/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Creating and Exporting Modules](./Day%2013%20-%20Modules/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Creating%20and%20Exporting%20Modules/)
+    - [Activity 2 - Named and Default Exports](./Day%2013%20-%20Modules/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Named%20and%20Default%20Exports/)
+    - [Activity 3 - Importing Entire Modules](./Day%2013%20-%20Modules/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Importing%20Entire%20Modules/)
+    - [Activity 4 - Using Third-Party Modules](./Day%2013%20-%20Modules/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Using%20Third-Party%20Modules/)
+    - [Activity 5 - Module Bundling (Optional)](./Day%2013%20-%20Modules/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Module%20Bundling%20(Optional)/)
+  - 💻 [**Feature Request**](./Day%2013%20-%20Modules/Solutions/Feature%20Request/)
+    - [1. Basic Module Script](./Day%2013%20-%20Modules/Solutions/Feature%20Request/1.%20Basic%20Module%20Script/)
+    - [2. Named and Default Exports Script](./Day%2013%20-%20Modules/Solutions/Feature%20Request/2.%20Named%20and%20Default%20Exports%20Script/)
+    - [3. Third-Party Module Script](./Day%2013%20-%20Modules/Solutions/Feature%20Request/3.%20Third-Party%20Module%20Script/)
+    - [4. Module Bundling Script](./Day%2013%20-%20Modules/Solutions/Feature%20Request/4.%20Module%20Bundling%20Script/)
 
 <br />
 
