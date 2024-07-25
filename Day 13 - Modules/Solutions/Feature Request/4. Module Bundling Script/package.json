@@ -1,0 +1,16 @@
+{
+  "name": "task-8",
+  "version": "1.0.0",
+  "description": "To bundle multiple JavaScript files into a single file using Parcel, follow these steps:",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
