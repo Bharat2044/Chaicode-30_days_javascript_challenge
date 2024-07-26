@@ -266,6 +266,25 @@ node fileName.js
     - [3. Third-Party Module Script](./Day%2013%20-%20Modules/Solutions/Feature%20Request/3.%20Third-Party%20Module%20Script/)
     - [4. Module Bundling Script](./Day%2013%20-%20Modules/Solutions/Feature%20Request/4.%20Module%20Bundling%20Script/)
 
+## 📚 [_Day 14 - Classes_](./Day%2014%20-%20Classes/)
+
+- 📒 [**Assignment**](./Day%2014%20-%20Classes/Assignment/)
+  - 📝 [_Readme File_](./Day%2014%20-%20Classes/Assignment/Day%2014%20-%20Classes%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2014%20-%20Classes/Assignment/Day%2014%20-%20Classes%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2014%20-%20Classes/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Class Definition](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Class%20Definition/)
+    - [Activity 2 - Class Inheritance](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Class%20Inheritance/)
+    - [Activity 3 - Static Methods and Properties](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities//Activity%203%20-%20Static%20Methods%20and%20Properties/)
+    - [Activity 4 - Getters and Setters](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Getters%20and%20Setters/)
+    - [Activity 5 - Private Fields (Optional)](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Private%20Fields%20(Optional)/)
+  - 💻 [**Feature Request**](./Day%2014%20-%20Classes/Solutions/Feature%20Request/)
+    - [1. Basic Class Script](./Day%2014%20-%20Classes/Solutions/Feature%20Request/1.%20Basic%20Class%20Script/)
+    - [2. Class Inheritance Script](./Day%2014%20-%20Classes/Solutions/Feature%20Request/2.%20Class%20Inheritance%20Script/)
+    - [3. Static Methods and Properties Script](./Day%2014%20-%20Classes/Solutions/Feature%20Request/3.%20Static%20Methods%20and%20Properties%20Script/)
+    - [4. Getters and Setters Script](./Day%2014%20-%20Classes/Solutions/Feature%20Request/4.%20Getters%20and%20Setters%20Script/)
+    - [5. Private Fields Script](./Day%2014%20-%20Classes/Solutions/Feature%20Request/5.%20Private%20Fields%20Script/)
+
 <br />
 
 ## 🔗 **Let's Connect** 🤝
