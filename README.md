@@ -275,7 +275,7 @@ node fileName.js
   - 💻 [**Tasks / Activities**](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/)
     - [Activity 1 - Class Definition](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Class%20Definition/)
     - [Activity 2 - Class Inheritance](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Class%20Inheritance/)
-    - [Activity 3 - Static Methods and Properties](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities//Activity%203%20-%20Static%20Methods%20and%20Properties/)
+    - [Activity 3 - Static Methods and Properties](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Static%20Methods%20and%20Properties/)
     - [Activity 4 - Getters and Setters](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Getters%20and%20Setters/)
     - [Activity 5 - Private Fields (Optional)](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Private%20Fields%20(Optional)/)
   - 💻 [**Feature Request**](./Day%2014%20-%20Classes/Solutions/Feature%20Request/)
@@ -284,6 +284,25 @@ node fileName.js
     - [3. Static Methods and Properties Script](./Day%2014%20-%20Classes/Solutions/Feature%20Request/3.%20Static%20Methods%20and%20Properties%20Script/)
     - [4. Getters and Setters Script](./Day%2014%20-%20Classes/Solutions/Feature%20Request/4.%20Getters%20and%20Setters%20Script/)
     - [5. Private Fields Script](./Day%2014%20-%20Classes/Solutions/Feature%20Request/5.%20Private%20Fields%20Script/)
+    
+## 📚 [_Day 15 - Closures_](./Day%2015%20-%20Closures/)
+
+- 📒 [**Assignment**](./Day%2015%20-%20Closures/Assignment/)
+  - 📝 [_Readme File_](./Day%2015%20-%20Closures/Assignment/Day%2015%20-%20Closures%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2015%20-%20Closures/Assignment/Day%2015%20-%20Closures%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2015%20-%20Closures/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2015%20-%20Closures/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Understanding Closures](./Day%2015%20-%20Closures/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Understanding%20Closures/)
+    - [Activity 2 - Practical Closures](./Day%2015%20-%20Closures/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Practical%20Closures/)
+    - [Activity 3 - Closures in Loops](./Day%2015%20-%20Closures/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Closures%20in%20Loops/)
+    - [Activity 4 - Module Pattern](./Day%2015%20-%20Closures/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Module%20Pattern/)
+    - [Activity 5 - Memoization](./Day%2015%20-%20Closures/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Memoization/)
+  - 💻 [**Feature Request**](./Day%2015%20-%20Closures/Solutions/Feature%20Request/)
+    - [1. Basic Closure Script](./Day%2015%20-%20Closures/Solutions/Feature%20Request/1.%20Basic%20Closure%20Script/)
+    - [2. Counter Closure Script](./Day%2015%20-%20Closures/Solutions/Feature%20Request/2.%20Counter%20Closure%20Script/)
+    - [3. Unique ID Generator Script](./Day%2015%20-%20Closures/Solutions/Feature%20Request/3.%20Unique%20ID%20Generator%20Script/)
+    - [4. Loop Closure Script](./Day%2015%20-%20Closures/Solutions/Feature%20Request/4.%20Loop%20Closure%20Script/)
+    - [5. Memoization Script](./Day%2015%20-%20Closures/Solutions/Feature%20Request/5.%20Memoization%20Script/)
 
 <br />
 
