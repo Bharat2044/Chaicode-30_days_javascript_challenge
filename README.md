@@ -303,6 +303,25 @@ node fileName.js
     - [3. Unique ID Generator Script](./Day%2015%20-%20Closures/Solutions/Feature%20Request/3.%20Unique%20ID%20Generator%20Script/)
     - [4. Loop Closure Script](./Day%2015%20-%20Closures/Solutions/Feature%20Request/4.%20Loop%20Closure%20Script/)
     - [5. Memoization Script](./Day%2015%20-%20Closures/Solutions/Feature%20Request/5.%20Memoization%20Script/)
+    
+## 📚 [_Day 16 - Recursion_](./Day%2016%20-%20Recursion/)
+
+- 📒 [**Assignment**](./Day%2016%20-%20Recursion/Assignment/)
+  - 📝 [_Readme File_](./Day%2016%20-%20Recursion/Assignment/Day%2016%20-%20Recursion%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2016%20-%20Recursion/Assignment/Day%2016%20-%20Recursion%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2016%20-%20Recursion/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2016%20-%20Recursion/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Basic Recursion](./Day%2016%20-%20Recursion/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Basic%20Recursion/)
+    - [Activity 2 - Recursion with Arrays](./Day%2016%20-%20Recursion/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Recursion%20with%20Arrays/)
+    - [Activity 3 - String Manipulation with Recursion](./Day%2016%20-%20Recursion/Solutions/Tasks%20or%20Activities/Activity%203%20-%20String%20Manipulation%20with%20Recursion/)
+    - [Activity 4 - Recursive Search](./Day%2016%20-%20Recursion/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Recursive%20Search/)
+    - [Activity 5 - Tree Traversal (Optional)](./Day%2016%20-%20Recursion/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Tree%20Traversal%20(Optional)/)
+  - 💻 [**Feature Request**](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/)
+    - [1. Factorial and Fibonacci Script](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/1.%20Factorial%20and%20Fibonacci%20Script/)
+    - [2. Array Recursion Script](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/2.%20Array%20Recursion%20Script/)
+    - [3. String Recursion Script](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/3.%20String%20Recursion%20Script/)
+    - [4. Recursive Search Script](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/4.%20Recursive%20Search%20Script/)
+    - [5. Tree Traversal Script](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/5.%20Tree%20Traversal%20Script/)
 
 <br />
 
