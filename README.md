@@ -322,6 +322,25 @@ node fileName.js
     - [3. String Recursion Script](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/3.%20String%20Recursion%20Script/)
     - [4. Recursive Search Script](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/4.%20Recursive%20Search%20Script/)
     - [5. Tree Traversal Script](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/5.%20Tree%20Traversal%20Script/)
+    
+## 📚 [_Day 17 - Data Structures_](./Day%2017%20-%20Data%20Structures/)
+
+- 📒 [**Assignment**](./Day%2017%20-%20Data%20Structures/Assignment/)
+  - 📝 [_Readme File_](./Day%2017%20-%20Data%20Structures/Assignment/Day%2017%20-%20Data%20Structures%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2017%20-%20Data%20Structures/Assignment/Day%2017%20-%20Data%20Structures%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2017%20-%20Data%20Structures/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2017%20-%20Data%20Structures/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Linked List](./Day%2017%20-%20Data%20Structures/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Linked%20List/)
+    - [Activity 2 - Stack](./Day%2017%20-%20Data%20Structures/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Stack/)
+    - [Activity 3 - Queue](./Day%2017%20-%20Data%20Structures/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Queue/)
+    - [Activity 4 - Binary Tree](./Day%2017%20-%20Data%20Structures/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Binary%20Tree/)
+    - [Activity 5 - Graph (Optional)](./Day%2017%20-%20Data%20Structures/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Graph%20(Optional)/)
+  - 💻 [**Feature Request**](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/)
+    - [1. Linked List Script](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/1.%20Linked%20List%20Script/)
+    - [2. Stack Script](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/2.%20Stack%20Script/)
+    - [3. Queue Script](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/3.%20Queue%20Script/)
+    - [4. Binary Tree Script](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/4.%20Binary%20Tree%20Script/)
+    - [5. Graph Script](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/5.%20Graph%20Script/)
 
 <br />
 
