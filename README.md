@@ -341,6 +341,25 @@ node fileName.js
     - [3. Queue Script](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/3.%20Queue%20Script/)
     - [4. Binary Tree Script](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/4.%20Binary%20Tree%20Script/)
     - [5. Graph Script](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/5.%20Graph%20Script/)
+    
+## 📚 [_Day 18 - Algorithms_](./Day%2018%20-%20Algorithms/)
+
+- 📒 [**Assignment**](./Day%2018%20-%20Algorithms/Assignment/)
+  - 📝 [_Readme File_](./Day%2018%20-%20Algorithms/Assignment/Day%2018%20-%20Algorithms%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2018%20-%20Algorithms/Assignment/Day%2018%20-%20Algorithms%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2018%20-%20Algorithms/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2018%20-%20Algorithms/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Sorting Algorithms](./Day%2018%20-%20Algorithms/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Sorting%20Algorithms/)
+    - [Activity 2 - Searching Algorithms](./Day%2018%20-%20Algorithms/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Searching%20Algorithms/)
+    - [Activity 3 - String Algorithms](./Day%2018%20-%20Algorithms/Solutions/Tasks%20or%20Activities/Activity%203%20-%20String%20Algorithms/)
+    - [Activity 4 - Array Algorithms](./Day%2018%20-%20Algorithms/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Array%20Algorithms/)
+    - [Activity 5 - Dynamic Programming (Optional)](./Day%2018%20-%20Algorithms/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Dynamic%20Programming%20(Optional)/)
+  - 💻 [**Feature Request**](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/)
+    - [1. Sorting Algorithm Script](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/1.%20Sorting%20Algorithm%20Script/)
+    - [2. Searching Algorithm Script](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/2.%20Searching%20Algorithm%20Script/)
+    - [3. String Algorithm Script](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/3.%20String%20Algorithm%20Script/)
+    - [4. Array Algorithm Script](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/4.%20Array%20Algorithm%20Script/)
+    - [5. Dynamic Programming Script](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/5.%20Dynamic%20Programming%20Script/)
 
 <br />
 
