@@ -360,6 +360,26 @@ node fileName.js
     - [3. String Algorithm Script](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/3.%20String%20Algorithm%20Script/)
     - [4. Array Algorithm Script](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/4.%20Array%20Algorithm%20Script/)
     - [5. Dynamic Programming Script](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/5.%20Dynamic%20Programming%20Script/)
+    
+## 📚 [_Day 19 - Regular Expressions_](./Day%2019%20-%20Regular%20Expressions/)
+
+- 📒 [**Assignment**](./Day%2019%20-%20Regular%20Expressions/Assignment/)
+  - 📝 [_Readme File_](./Day%2019%20-%20Regular%20Expressions/Assignment/Day%2019%20-%20Regular%20Expressions%20Assignment%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2019%20-%20Regular%20Expressions/Assignment/Day%2019%20-%20Regular%20Expressions%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2019%20-%20Regular%20Expressions/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2019%20-%20Regular%20Expressions/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Basic Regular Expressions](./Day%2019%20-%20Regular%20Expressions/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Basic%20Regular%20Expressions/)
+    - [Activity 2 - Character Classes and Quantifiers](./Day%2019%20-%20Regular%20Expressions/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Character%20Classes%20and%20Quantifiers/)
+    - [Activity 3 - Grouping and Capturing](./Day%2019%20-%20Regular%20Expressions/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Grouping%20and%20Capturing/)
+    - [Activity 4 - Assertions and Boundaries](./Day%2019%20-%20Regular%20Expressions/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Assertions%20and%20Boundaries/)
+    - [Activity 5 - Practical Applications](./Day%2019%20-%20Regular%20Expressions/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Practical%20Applications/)
+  - 💻 [**Feature Request**](./Day%2019%20-%20Regular%20Expressions/Solutions/Feature%20Request/)
+    - [1. Basic Regex Script](./Day%2019%20-%20Regular%20Expressions/Solutions/Feature%20Request/1.%20Basic%20Regex%20Script/)
+    - [2. Character Classes and Quantifiers Script](./Day%2019%20-%20Regular%20Expressions/Solutions/Feature%20Request/2.%20Character%20Classes%20and%20Quantifiers%20Script/)
+    - [3. Grouping and Capturing Script](./Day%2019%20-%20Regular%20Expressions/Solutions/Feature%20Request/3.%20Grouping%20and%20Capturing%20Script/)
+    - [4. Assertions and Boundaries Script](./Day%2019%20-%20Regular%20Expressions/Solutions/Feature%20Request/4.%20Assertions%20and%20Boundaries%20Script/)
+    - [5. Validation Script](./Day%2019%20-%20Regular%20Expressions/Solutions/Feature%20Request/5.%20Validation%20Script/)
+    
 
 <br />
 
