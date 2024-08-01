@@ -364,7 +364,7 @@ node fileName.js
 ## 📚 [_Day 19 - Regular Expressions_](./Day%2019%20-%20Regular%20Expressions/)
 
 - 📒 [**Assignment**](./Day%2019%20-%20Regular%20Expressions/Assignment/)
-  - 📝 [_Readme File_](./Day%2019%20-%20Regular%20Expressions/Assignment/Day%2019%20-%20Regular%20Expressions%20Assignment%20Assignment.md)
+  - 📝 [_Readme File_](./Day%2019%20-%20Regular%20Expressions/Assignment/Day%2019%20-%20Regular%20Expressions%20Assignment.md)
   - 📝 [_PDF File_](./Day%2019%20-%20Regular%20Expressions/Assignment/Day%2019%20-%20Regular%20Expressions%20Assignment.png)
 - 🖥️ [**Assignment Solutions**](./Day%2019%20-%20Regular%20Expressions/Solutions/)
   - 💻 [**Tasks / Activities**](./Day%2019%20-%20Regular%20Expressions/Solutions/Tasks%20or%20Activities/)
@@ -379,6 +379,25 @@ node fileName.js
     - [3. Grouping and Capturing Script](./Day%2019%20-%20Regular%20Expressions/Solutions/Feature%20Request/3.%20Grouping%20and%20Capturing%20Script/)
     - [4. Assertions and Boundaries Script](./Day%2019%20-%20Regular%20Expressions/Solutions/Feature%20Request/4.%20Assertions%20and%20Boundaries%20Script/)
     - [5. Validation Script](./Day%2019%20-%20Regular%20Expressions/Solutions/Feature%20Request/5.%20Validation%20Script/)
+    
+## 📚 [_Day 20 - LocalStorage and SessionStorage_](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/)
+
+- 📒 [**Assignment**](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Assignment/)
+  - 📝 [_Readme File_](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Assignment/Day%2020%20-%20LocalStorage%20and%20SessionStorage%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Assignment/Day%2020%20-%20LocalStorage%20and%20SessionStorage%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Understanding LocalStorage](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Understanding%20LocalStorage/)
+    - [Activity 2 - Using LocalStorage](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Using%20LocalStorage/)
+    - [Activity 3 - Understanding SessionStorage](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Understanding%20SessionStorage/)
+    - [Activity 4 - Using SessionStorage](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Using%20SessionStorage/)
+    - [Activity 5 - Comparing LocalStorage and SessionStorage](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Comparing%20LocalStorage%20and%20SessionStorage/)
+  - 💻 [**Feature Request**](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Feature%20Request/)
+    - [1. LocalStorage Script](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Feature%20Request/1.%20LocalStorage%20Script/)
+    - [2. SessionStorage Script](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Feature%20Request/2.%20SessionStorage%20Script/)
+    - [3. Storage Comparison Script](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Feature%20Request/3.%20Storage%20Comparison%20Script/)
+    - [4. Clear Storage Script](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Feature%20Request/4.%20Clear%20Storage%20Script/)
+    
     
 
 <br />
