@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feature Request 1 Solution</title>
+</head>
+<body>
+    <h1>LocalStorage and SessionStorage</h1>
+
+    <h2>Save Data</h2>
+    <form onsubmit="event.preventDefault(); saveData();">
+        <label for="key">Key:</label>
+        <input type="text" id="key" name="key" required><br>
+
+        <label for="value">Value:</label>
+        <input type="text" id="value" name="value" required><br>
+
+        <input type="submit" value="Save">
+    </form>
+
+    <h2>Remove Data</h2>
+    <form onsubmit="event.preventDefault(); removeData();">
+        <label for="keyToRemove">Key to remove:</label>
+        <input type="text" id="keyToRemove" name="keyToRemove" required><br>
+        
+        <input type="submit" value="Remove">
+    </form>
+
+    <h2>Saved Data</h2>
+    <ul id="display"></ul>
+
+    <script src="./index.js"></script>
+</body>
+</html>
