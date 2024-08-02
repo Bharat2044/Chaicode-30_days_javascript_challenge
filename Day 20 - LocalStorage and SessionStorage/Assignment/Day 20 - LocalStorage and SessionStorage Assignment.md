@@ -18,7 +18,7 @@
 - **Task 7:** Create a simple form that saves user input (e.g., name and email) to `sessionStorage` when submitted. Retrieve and display the saved data on page load.
 - **Task 8:** Write a script to remove an item from `sessionStorage`. Log the `sessionStorage` content before and after removal.
 
-### Activity 5: Comparing LocalStorage and SessionStorage
+### Activity 5: Comparing LocalStorage and SessbionStorage
 - **Task 9:** Write a function that accepts a key and a value, and saves the value to both `localStorage` and `sessionStorage`. Retrieve and log the values from both storage mechanisms.
 - **Task 10:** Write a function that clears all data from both `localStorage` and `sessionStorage`. Verify that both storages are empty.
 
