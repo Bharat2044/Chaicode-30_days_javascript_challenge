@@ -398,6 +398,27 @@ node fileName.js
     - [3. Storage Comparison Script](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Feature%20Request/3.%20Storage%20Comparison%20Script/)
     - [4. Clear Storage Script](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Feature%20Request/4.%20Clear%20Storage%20Script/)
     
+## 📚 [_Day 21 - LeetCode Easy_](./Day%2021%20-%20LeetCode%20Easy/)
+
+- 📒 [**Assignment**](./Day%2021%20-%20LeetCode%20Easy/Assignment/)
+  - 📝 [_Readme File_](./Day%2021%20-%20LeetCode%20Easy/Assignment/Day%2021%20-%20LeetCode%20Easy%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2021%20-%20LeetCode%20Easy/Assignment/Day%2021%20-%20LeetCode%20Easy%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2021%20-%20LeetCode%20Easy/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2021%20-%20LeetCode%20Easy/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Two Sum](./Day%2021%20-%20LeetCode%20Easy/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Two%20Sum/)
+    - [Activity 2 - Reverse Integer](./Day%2021%20-%20LeetCode%20Easy/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Reverse%20Integer/)
+    - [Activity 3 - Palindrome Number](./Day%2021%20-%20LeetCode%20Easy/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Palindrome%20Number/)
+    - [Activity 4 - Merge Two Sorted Lists](./Day%2021%20-%20LeetCode%20Easy/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Merge%20Two%20Sorted%20Lists/)
+    - [Activity 5 - Valid Parentheses](./Day%2021%20-%20LeetCode%20Easy/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Valid%20Parentheses/)
+  - 💻 [**Feature Request**](./Day%2021%20-%20LeetCode%20Easy/Solutions/Feature%20Request/)
+    - [1. Two Sum Script](./Day%2021%20-%20LeetCode%20Easy/Solutions/Feature%20Request/1.%20Two%20Sum%20Script/)
+    - [2. Reverse Integer Script](./Day%2021%20-%20LeetCode%20Easy/Solutions/Feature%20Request/2.%20Reverse%20Integer%20Script/)
+    - [3. Palindrome Number Script](./Day%2021%20-%20LeetCode%20Easy/Solutions/Feature%20Request/3.%20Palindrome%20Number%20Script/)
+    - [4. Merge Two Sorted Lists Script](./Day%2021%20-%20LeetCode%20Easy/Solutions/Feature%20Request/4.%20Merge%20Two%20Sorted%20Lists%20Script/)
+    - [5. Valid Parentheses Script](./Day%2021%20-%20LeetCode%20Easy/Solutions/Feature%20Request/5.%20Valid%20Parentheses%20Script/)
+    
+
+    
     
 
 <br />
