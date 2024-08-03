@@ -417,6 +417,26 @@ node fileName.js
     - [4. Merge Two Sorted Lists Script](./Day%2021%20-%20LeetCode%20Easy/Solutions/Feature%20Request/4.%20Merge%20Two%20Sorted%20Lists%20Script/)
     - [5. Valid Parentheses Script](./Day%2021%20-%20LeetCode%20Easy/Solutions/Feature%20Request/5.%20Valid%20Parentheses%20Script/)
     
+    
+## 📚 [_Day 22 - LeetCode Medium_](./Day%2022%20-%20LeetCode%20Medium/)
+
+- 📒 [**Assignment**](./Day%2022%20-%20LeetCode%20Medium/Assignment/)
+  - 📝 [_Readme File_](./Day%2022%20-%20LeetCode%20Medium/Assignment/Day%2021%20-%20LeetCode%20Medium%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2022%20-%20LeetCode%20Medium/Assignment/Day%2022%20-%20LeetCode%20Medium%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2022%20-%20LeetCode%20Medium/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2022%20-%20LeetCode%20Medium/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Add Two Numbers](./Day%2022%20-%20LeetCode%20Medium/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Add%20Two%20Numbers/)
+    - [Activity 2 - Longest Substring Without Repeating Characters](./Day%2022%20-%20LeetCode%20Medium/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Longest%20Substring%20Without%20Repeating%20Characters/)
+    - [Activity 3 - Container With Most Water](./Day%2022%20-%20LeetCode%20Medium/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Container%20With%20Most%20Water/)
+    - [Activity 4 - 3Sum](./Day%2022%20-%20LeetCode%20Medium/Solutions/Tasks%20or%20Activities/Activity%204%20-%203Sum/)
+    - [Activity 5 - Group Anagrams](./Day%2022%20-%20LeetCode%20Medium/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Group%20Anagrams/)
+  - 💻 [**Feature Request**](./Day%2022%20-%20LeetCode%20Medium/Solutions/Feature%20Request/)
+    - [1. Add Two Numbers Script](./Day%2022%20-%20LeetCode%20Medium/Solutions/Feature%20Request/1.%20Add%20Two%20Numbers%20Script/)
+    - [2. Longest Substring Script](./Day%2022%20-%20LeetCode%20Medium/Solutions/Feature%20Request/2.%20Longest%20Substring%20Script/)
+    - [3. Container With Most Water Script](./Day%2022%20-%20LeetCode%20Medium/Solutions/Feature%20Request/3.%20Container%20With%20Most%20Water%20Script/)
+    - [4. 3Sum Script](./Day%2022%20-%20LeetCode%20Medium/Solutions/Feature%20Request/4.%203Sum%20Script//)
+    - [5. Group Anagrams Script](./Day%2022%20-%20LeetCode%20Medium/Solutions/Feature%20Request/5.%20Group%20Anagrams%20Script/)
+    
 
     
     
