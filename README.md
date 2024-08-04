@@ -259,7 +259,7 @@ node fileName.js
     - [Activity 2 - Named and Default Exports](./Day%2013%20-%20Modules/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Named%20and%20Default%20Exports/)
     - [Activity 3 - Importing Entire Modules](./Day%2013%20-%20Modules/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Importing%20Entire%20Modules/)
     - [Activity 4 - Using Third-Party Modules](./Day%2013%20-%20Modules/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Using%20Third-Party%20Modules/)
-    - [Activity 5 - Module Bundling (Optional)](./Day%2013%20-%20Modules/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Module%20Bundling%20(Optional)/)
+    - [Activity 5 - Module Bundling (Optional)](<./Day%2013%20-%20Modules/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Module%20Bundling%20(Optional)/>)
   - 💻 [**Feature Request**](./Day%2013%20-%20Modules/Solutions/Feature%20Request/)
     - [1. Basic Module Script](./Day%2013%20-%20Modules/Solutions/Feature%20Request/1.%20Basic%20Module%20Script/)
     - [2. Named and Default Exports Script](./Day%2013%20-%20Modules/Solutions/Feature%20Request/2.%20Named%20and%20Default%20Exports%20Script/)
@@ -277,14 +277,14 @@ node fileName.js
     - [Activity 2 - Class Inheritance](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Class%20Inheritance/)
     - [Activity 3 - Static Methods and Properties](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Static%20Methods%20and%20Properties/)
     - [Activity 4 - Getters and Setters](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Getters%20and%20Setters/)
-    - [Activity 5 - Private Fields (Optional)](./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Private%20Fields%20(Optional)/)
+    - [Activity 5 - Private Fields (Optional)](<./Day%2014%20-%20Classes/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Private%20Fields%20(Optional)/>)
   - 💻 [**Feature Request**](./Day%2014%20-%20Classes/Solutions/Feature%20Request/)
     - [1. Basic Class Script](./Day%2014%20-%20Classes/Solutions/Feature%20Request/1.%20Basic%20Class%20Script/)
     - [2. Class Inheritance Script](./Day%2014%20-%20Classes/Solutions/Feature%20Request/2.%20Class%20Inheritance%20Script/)
     - [3. Static Methods and Properties Script](./Day%2014%20-%20Classes/Solutions/Feature%20Request/3.%20Static%20Methods%20and%20Properties%20Script/)
     - [4. Getters and Setters Script](./Day%2014%20-%20Classes/Solutions/Feature%20Request/4.%20Getters%20and%20Setters%20Script/)
     - [5. Private Fields Script](./Day%2014%20-%20Classes/Solutions/Feature%20Request/5.%20Private%20Fields%20Script/)
-    
+
 ## 📚 [_Day 15 - Closures_](./Day%2015%20-%20Closures/)
 
 - 📒 [**Assignment**](./Day%2015%20-%20Closures/Assignment/)
@@ -303,7 +303,7 @@ node fileName.js
     - [3. Unique ID Generator Script](./Day%2015%20-%20Closures/Solutions/Feature%20Request/3.%20Unique%20ID%20Generator%20Script/)
     - [4. Loop Closure Script](./Day%2015%20-%20Closures/Solutions/Feature%20Request/4.%20Loop%20Closure%20Script/)
     - [5. Memoization Script](./Day%2015%20-%20Closures/Solutions/Feature%20Request/5.%20Memoization%20Script/)
-    
+
 ## 📚 [_Day 16 - Recursion_](./Day%2016%20-%20Recursion/)
 
 - 📒 [**Assignment**](./Day%2016%20-%20Recursion/Assignment/)
@@ -315,14 +315,14 @@ node fileName.js
     - [Activity 2 - Recursion with Arrays](./Day%2016%20-%20Recursion/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Recursion%20with%20Arrays/)
     - [Activity 3 - String Manipulation with Recursion](./Day%2016%20-%20Recursion/Solutions/Tasks%20or%20Activities/Activity%203%20-%20String%20Manipulation%20with%20Recursion/)
     - [Activity 4 - Recursive Search](./Day%2016%20-%20Recursion/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Recursive%20Search/)
-    - [Activity 5 - Tree Traversal (Optional)](./Day%2016%20-%20Recursion/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Tree%20Traversal%20(Optional)/)
+    - [Activity 5 - Tree Traversal (Optional)](<./Day%2016%20-%20Recursion/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Tree%20Traversal%20(Optional)/>)
   - 💻 [**Feature Request**](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/)
     - [1. Factorial and Fibonacci Script](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/1.%20Factorial%20and%20Fibonacci%20Script/)
     - [2. Array Recursion Script](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/2.%20Array%20Recursion%20Script/)
     - [3. String Recursion Script](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/3.%20String%20Recursion%20Script/)
     - [4. Recursive Search Script](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/4.%20Recursive%20Search%20Script/)
     - [5. Tree Traversal Script](./Day%2016%20-%20Recursion/Solutions/Feature%20Request/5.%20Tree%20Traversal%20Script/)
-    
+
 ## 📚 [_Day 17 - Data Structures_](./Day%2017%20-%20Data%20Structures/)
 
 - 📒 [**Assignment**](./Day%2017%20-%20Data%20Structures/Assignment/)
@@ -334,14 +334,14 @@ node fileName.js
     - [Activity 2 - Stack](./Day%2017%20-%20Data%20Structures/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Stack/)
     - [Activity 3 - Queue](./Day%2017%20-%20Data%20Structures/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Queue/)
     - [Activity 4 - Binary Tree](./Day%2017%20-%20Data%20Structures/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Binary%20Tree/)
-    - [Activity 5 - Graph (Optional)](./Day%2017%20-%20Data%20Structures/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Graph%20(Optional)/)
+    - [Activity 5 - Graph (Optional)](<./Day%2017%20-%20Data%20Structures/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Graph%20(Optional)/>)
   - 💻 [**Feature Request**](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/)
     - [1. Linked List Script](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/1.%20Linked%20List%20Script/)
     - [2. Stack Script](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/2.%20Stack%20Script/)
     - [3. Queue Script](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/3.%20Queue%20Script/)
     - [4. Binary Tree Script](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/4.%20Binary%20Tree%20Script/)
     - [5. Graph Script](./Day%2017%20-%20Data%20Structures/Solutions/Feature%20Request/5.%20Graph%20Script/)
-    
+
 ## 📚 [_Day 18 - Algorithms_](./Day%2018%20-%20Algorithms/)
 
 - 📒 [**Assignment**](./Day%2018%20-%20Algorithms/Assignment/)
@@ -353,14 +353,14 @@ node fileName.js
     - [Activity 2 - Searching Algorithms](./Day%2018%20-%20Algorithms/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Searching%20Algorithms/)
     - [Activity 3 - String Algorithms](./Day%2018%20-%20Algorithms/Solutions/Tasks%20or%20Activities/Activity%203%20-%20String%20Algorithms/)
     - [Activity 4 - Array Algorithms](./Day%2018%20-%20Algorithms/Solutions/Tasks%20or%20Activities/Activity%204%20-%20Array%20Algorithms/)
-    - [Activity 5 - Dynamic Programming (Optional)](./Day%2018%20-%20Algorithms/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Dynamic%20Programming%20(Optional)/)
+    - [Activity 5 - Dynamic Programming (Optional)](<./Day%2018%20-%20Algorithms/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Dynamic%20Programming%20(Optional)/>)
   - 💻 [**Feature Request**](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/)
     - [1. Sorting Algorithm Script](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/1.%20Sorting%20Algorithm%20Script/)
     - [2. Searching Algorithm Script](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/2.%20Searching%20Algorithm%20Script/)
     - [3. String Algorithm Script](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/3.%20String%20Algorithm%20Script/)
     - [4. Array Algorithm Script](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/4.%20Array%20Algorithm%20Script/)
     - [5. Dynamic Programming Script](./Day%2018%20-%20Algorithms/Solutions/Feature%20Request/5.%20Dynamic%20Programming%20Script/)
-    
+
 ## 📚 [_Day 19 - Regular Expressions_](./Day%2019%20-%20Regular%20Expressions/)
 
 - 📒 [**Assignment**](./Day%2019%20-%20Regular%20Expressions/Assignment/)
@@ -379,7 +379,7 @@ node fileName.js
     - [3. Grouping and Capturing Script](./Day%2019%20-%20Regular%20Expressions/Solutions/Feature%20Request/3.%20Grouping%20and%20Capturing%20Script/)
     - [4. Assertions and Boundaries Script](./Day%2019%20-%20Regular%20Expressions/Solutions/Feature%20Request/4.%20Assertions%20and%20Boundaries%20Script/)
     - [5. Validation Script](./Day%2019%20-%20Regular%20Expressions/Solutions/Feature%20Request/5.%20Validation%20Script/)
-    
+
 ## 📚 [_Day 20 - LocalStorage and SessionStorage_](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/)
 
 - 📒 [**Assignment**](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Assignment/)
@@ -397,7 +397,7 @@ node fileName.js
     - [2. SessionStorage Script](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Feature%20Request/2.%20SessionStorage%20Script/)
     - [3. Storage Comparison Script](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Feature%20Request/3.%20Storage%20Comparison%20Script/)
     - [4. Clear Storage Script](./Day%2020%20-%20LocalStorage%20and%20SessionStorage/Solutions/Feature%20Request/4.%20Clear%20Storage%20Script/)
-    
+
 ## 📚 [_Day 21 - LeetCode Easy_](./Day%2021%20-%20LeetCode%20Easy/)
 
 - 📒 [**Assignment**](./Day%2021%20-%20LeetCode%20Easy/Assignment/)
@@ -416,8 +416,7 @@ node fileName.js
     - [3. Palindrome Number Script](./Day%2021%20-%20LeetCode%20Easy/Solutions/Feature%20Request/3.%20Palindrome%20Number%20Script/)
     - [4. Merge Two Sorted Lists Script](./Day%2021%20-%20LeetCode%20Easy/Solutions/Feature%20Request/4.%20Merge%20Two%20Sorted%20Lists%20Script/)
     - [5. Valid Parentheses Script](./Day%2021%20-%20LeetCode%20Easy/Solutions/Feature%20Request/5.%20Valid%20Parentheses%20Script/)
-    
-    
+
 ## 📚 [_Day 22 - LeetCode Medium_](./Day%2022%20-%20LeetCode%20Medium/)
 
 - 📒 [**Assignment**](./Day%2022%20-%20LeetCode%20Medium/Assignment/)
@@ -436,14 +435,12 @@ node fileName.js
     - [3. Container With Most Water Script](./Day%2022%20-%20LeetCode%20Medium/Solutions/Feature%20Request/3.%20Container%20With%20Most%20Water%20Script/)
     - [4. 3Sum Script](./Day%2022%20-%20LeetCode%20Medium/Solutions/Feature%20Request/4.%203Sum%20Script//)
     - [5. Group Anagrams Script](./Day%2022%20-%20LeetCode%20Medium/Solutions/Feature%20Request/5.%20Group%20Anagrams%20Script/)
-    
 
-    
 ## 📚 [_Day 23 - LeetCode Hard_](./Day%2023%20-%20LeetCode%20Hard/)
 
 - 📒 [**Assignment**](./Day%2023%20-%20LeetCode%20Hard/Assignment/)
   - 📝 [_Readme File_](./Day%2023%20-%20LeetCode%20Hard/Assignment/Day%2023%20-%20LeetCode%20Hard%20Assignment.md)
-  - 📝 [_PDF File_](./Day%2023%20-%20LeetCode%20Hard/Assignment/Day%2022%20-%20LeetCode%20Medium%20Assignment.png)
+  - 📝 [_PDF File_](./Day%2023%20-%20LeetCode%20Hard/Assignment/Day%2023%20-%20LeetCode%20Hard%20Assignment.png)
 - 🖥️ [**Assignment Solutions**](./Day%2023%20-%20LeetCode%20Hard/Solutions/)
   - 💻 [**Tasks / Activities**](./Day%2023%20-%20LeetCode%20Hard/Solutions/Tasks%20or%20Activities/)
     - [Activity 1 - Median of Two Sorted Arrays](./Day%2023%20-%20LeetCode%20Hard/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Median%20of%20Two%20Sorted%20Arrays/)
@@ -457,10 +454,6 @@ node fileName.js
     - [3. Trapping Rain Water Script](./Day%2023%20-%20LeetCode%20Hard/Solutions/Feature%20Request/3.%20Trapping%20Rain%20Water%20Script/)
     - [4. N-Queens Script](./Day%2023%20-%20LeetCode%20Hard/Solutions/Feature%20Request/4.%20N-Queens%20Script/)
     - [5. Word Ladder Script](./Day%2023%20-%20LeetCode%20Hard/Solutions/Feature%20Request/5.%20Word%20Ladder%20Script/)
-    
-
-    
-    
 
 <br />
 
