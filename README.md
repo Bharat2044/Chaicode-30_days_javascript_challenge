@@ -421,7 +421,7 @@ node fileName.js
 ## 📚 [_Day 22 - LeetCode Medium_](./Day%2022%20-%20LeetCode%20Medium/)
 
 - 📒 [**Assignment**](./Day%2022%20-%20LeetCode%20Medium/Assignment/)
-  - 📝 [_Readme File_](./Day%2022%20-%20LeetCode%20Medium/Assignment/Day%2021%20-%20LeetCode%20Medium%20Assignment.md)
+  - 📝 [_Readme File_](./Day%2022%20-%20LeetCode%20Medium/Assignment/Day%2022%20-%20LeetCode%20Medium%20Assignment.md)
   - 📝 [_PDF File_](./Day%2022%20-%20LeetCode%20Medium/Assignment/Day%2022%20-%20LeetCode%20Medium%20Assignment.png)
 - 🖥️ [**Assignment Solutions**](./Day%2022%20-%20LeetCode%20Medium/Solutions/)
   - 💻 [**Tasks / Activities**](./Day%2022%20-%20LeetCode%20Medium/Solutions/Tasks%20or%20Activities/)
@@ -436,6 +436,27 @@ node fileName.js
     - [3. Container With Most Water Script](./Day%2022%20-%20LeetCode%20Medium/Solutions/Feature%20Request/3.%20Container%20With%20Most%20Water%20Script/)
     - [4. 3Sum Script](./Day%2022%20-%20LeetCode%20Medium/Solutions/Feature%20Request/4.%203Sum%20Script//)
     - [5. Group Anagrams Script](./Day%2022%20-%20LeetCode%20Medium/Solutions/Feature%20Request/5.%20Group%20Anagrams%20Script/)
+    
+
+    
+## 📚 [_Day 23 - LeetCode Hard_](./Day%2023%20-%20LeetCode%20Hard/)
+
+- 📒 [**Assignment**](./Day%2023%20-%20LeetCode%20Hard/Assignment/)
+  - 📝 [_Readme File_](./Day%2023%20-%20LeetCode%20Hard/Assignment/Day%2023%20-%20LeetCode%20Hard%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2023%20-%20LeetCode%20Hard/Assignment/Day%2022%20-%20LeetCode%20Medium%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2023%20-%20LeetCode%20Hard/Solutions/)
+  - 💻 [**Tasks / Activities**](./Day%2023%20-%20LeetCode%20Hard/Solutions/Tasks%20or%20Activities/)
+    - [Activity 1 - Median of Two Sorted Arrays](./Day%2023%20-%20LeetCode%20Hard/Solutions/Tasks%20or%20Activities/Activity%201%20-%20Median%20of%20Two%20Sorted%20Arrays/)
+    - [Activity 2 - Merge k Sorted Lists](./Day%2023%20-%20LeetCode%20Hard/Solutions/Tasks%20or%20Activities/Activity%202%20-%20Merge%20k%20Sorted%20Lists/)
+    - [Activity 3 - Trapping Rain Water](./Day%2023%20-%20LeetCode%20Hard/Solutions/Tasks%20or%20Activities/Activity%203%20-%20Trapping%20Rain%20Water/)
+    - [Activity 4 - N-Queens](./Day%2023%20-%20LeetCode%20Hard/Solutions/Tasks%20or%20Activities/Activity%204%20-%20N-Queens/)
+    - [Activity 5 - Word Ladder](./Day%2023%20-%20LeetCode%20Hard/Solutions/Tasks%20or%20Activities/Activity%205%20-%20Word%20Ladder/)
+  - 💻 [**Feature Request**](./Day%2023%20-%20LeetCode%20Hard/Solutions/Feature%20Request/)
+    - [1. Median of Two Sorted Arrays Script](./Day%2023%20-%20LeetCode%20Hard/Solutions/Feature%20Request/1.%20Median%20of%20Two%20Sorted%20Arrays%20Script/)
+    - [2. Merge k Sorted Lists Script](./Day%2023%20-%20LeetCode%20Hard/Solutions/Feature%20Request/2.%20Merge%20k%20Sorted%20Lists%20Script/)
+    - [3. Trapping Rain Water Script](./Day%2023%20-%20LeetCode%20Hard/Solutions/Feature%20Request/3.%20Trapping%20Rain%20Water%20Script/)
+    - [4. N-Queens Script](./Day%2023%20-%20LeetCode%20Hard/Solutions/Feature%20Request/4.%20N-Queens%20Script/)
+    - [5. Word Ladder Script](./Day%2023%20-%20LeetCode%20Hard/Solutions/Feature%20Request/5.%20Word%20Ladder%20Script/)
     
 
     
