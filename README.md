@@ -455,6 +455,38 @@ node fileName.js
     - [4. N-Queens Script](./Day%2023%20-%20LeetCode%20Hard/Solutions/Feature%20Request/4.%20N-Queens%20Script/)
     - [5. Word Ladder Script](./Day%2023%20-%20LeetCode%20Hard/Solutions/Feature%20Request/5.%20Word%20Ladder%20Script/)
 
+## 📚 [_Day 24 - Project 1: Weather App_](./Day%2024%20-%20Project%201%20-%20Weather%20App/)
+
+- 📒 [**Assignment**](./Day%2024%20-%20Project%201%20-%20Weather%20App/Assignment/)
+  - 📝 [_Readme File_](./Day%2024%20-%20Project%201%20-%20Weather%20App/Assignment/Day%2024%20-%20Project%201%20-%20Weather%20App%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2024%20-%20Project%201%20-%20Weather%20App/Assignment/Day%2024%20-%20Project%201%20-%20Weather%20App%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2024%20-%20Project%201%20-%20Weather%20App/Solutions/)
+  - 💻 [Tasks / Activities](./Day%2024%20-%20Project%201%20-%20Weather%20App/Solutions/)
+
+## 📚 [_Day 25 - Project 2: MovieSearch App_](./Day%2025%20-%20Project%202%20-%20MovieSearch%20App/)
+
+- 📒 [**Assignment**](./Day%2025%20-%20Project%202%20-%20MovieSearch%20App/Assignment/)
+  - 📝 [_Readme File_](./Day%2025%20-%20Project%202%20-%20MovieSearch%20App/Assignment/Day%2025%20-%20Project%202%20-%20MovieSearch%20App%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2025%20-%20Project%202%20-%20MovieSearch%20App/Assignment/Day%2025%20-%20Project%202%20-%20MovieSearch%20App%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2025%20-%20Project%202%20-%20MovieSearch%20App/Solutions/)
+  - 💻 [Tasks / Activities](./Day%2025%20-%20Project%202%20-%20MovieSearch%20App/Solutions/)
+
+## 📚 [_Day 26 - Project 3: Chat Application_](./Day%2026%20-%20Project%203%20-%20Chat%20Application/)
+
+- 📒 [**Assignment**](./Day%2026%20-%20Project%203%20-%20Chat%20Application/Assignment/)
+  - 📝 [_Readme File_](./Day%2026%20-%20Project%203%20-%20Chat%20Application/Assignment/Day%2026%20-%20Project%203%20-%20Chat%20Application%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2026%20-%20Project%203%20-%20Chat%20Application/Assignment/Day%2026%20-%20Project%203%20-%20Chat%20Application%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2026%20-%20Project%203%20-%20Chat%20Application/Solutions/)
+  - 💻 [Tasks / Activities](./Day%2026%20-%20Project%203%20-%20Chat%20Application/Solutions/)
+
+## 📚 [_Day 27 - Project 4: Task Management App_](./Day%2027%20-%20Project%204%20-%20Task%20Management%20App/)
+
+- 📒 [**Assignment**](./Day%2027%20-%20Project%204%20-%20Task%20Management%20App/Assignment/)
+  - 📝 [_Readme File_](./Day%2027%20-%20Project%204%20-%20Task%20Management%20App/Assignment/Day%2027%20-%20Project%204%20-%20Task%20Management%20App%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2027%20-%20Project%204%20-%20Task%20Management%20App/Assignment/Day%2027%20-%20Project%204%20-%20Task%20Management%20App%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2027%20-%20Project%204%20-%20Task%20Management%20App/Solutions/)
+  - 💻 [Tasks / Activities](./Day%2027%20-%20Project%204%20-%20Task%20Management%20App/Solutions/)
+
 <br />
 
 ## 🔗 **Let's Connect** 🤝
