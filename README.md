@@ -487,6 +487,14 @@ node fileName.js
 - 🖥️ [**Assignment Solutions**](./Day%2027%20-%20Project%204%20-%20Task%20Management%20App/Solutions/)
   - 💻 [Tasks / Activities](./Day%2027%20-%20Project%204%20-%20Task%20Management%20App/Solutions/)
 
+## 📚 [_Day 28 - Project 5: E-commerce Website_](./Day%2028%20-%20Project%205%20-%20E-commerce%20Website/)
+
+- 📒 [**Assignment**](./Day%2028%20-%20Project%205%20-%20E-commerce%20Website/Assignment/)
+  - 📝 [_Readme File_](./Day%2028%20-%20Project%205%20-%20E-commerce%20Website/Assignment/Day%2028%20-%20Project%205%20-%20E-commerce%20Website%20Assignment.md)
+  - 📝 [_PDF File_](./Day%2028%20-%20Project%205%20-%20E-commerce%20Website/Assignment/Day%2028%20-%20Project%205%20-%20E-commerce%20Website%20Assignment.png)
+- 🖥️ [**Assignment Solutions**](./Day%2028%20-%20Project%205%20-%20E-commerce%20Website/Solutions/)
+  - 💻 [Tasks / Activities](./Day%2028%20-%20Project%205%20-%20E-commerce%20Website/Solutions/)
+
 <br />
 
 ## 🔗 **Let's Connect** 🤝
